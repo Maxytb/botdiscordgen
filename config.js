@@ -1,6 +1,6 @@
 module.exports = {
     //Token de votre bot
-    token: "MTAwMTA0MjUwNTM1NTI0NzYzNg.GXMRqd.jVDNKDNeUh0QWl1vjJ-MhPa6KtYN813KzGV6wo",
+    token: "process.env.Token",
     //Prefix de votre bot
     prefix: ".",
     //Status de votre bot
